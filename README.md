@@ -55,7 +55,3 @@ This research project investigates the long-term impact of sustained Research an
 3. Run `analysis.py` to reproduce the analysis
 4. Check `report.pdf` for detailed research findings
 
-## Contact
-Tanishq Jain
-Study Oriented Project
-Birla Institute of Technology and Science
